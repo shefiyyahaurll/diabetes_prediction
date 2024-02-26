@@ -8,7 +8,7 @@ Username dicoding: shefiyyah-aurellia-w
 | ----------- | ----------- |
 | Dataset | [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) |
 | Masalah | Deskripsi masalah yang di angkat |
-| Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
+| Solusi machine learning | Dengan memprediksi Diabetes, sistem perawatan kesehatan dapat mengalokasikan sumber daya dengan lebih efisien, memprioritaskan mereka yang membutuhkan perawatan yang lebih intensif. |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
 | Metrik evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
