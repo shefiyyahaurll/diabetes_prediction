@@ -1,5 +1,4 @@
-# diabetes_prediction
-## Submission 1: Nama Proyek Anda
+# Submission 1: Diabetes Prediction
 Nama: Shefiyyah Aurellia Wahyudi
 
 Username dicoding: shefiyyah-aurellia-w
@@ -11,7 +10,7 @@ Username dicoding: shefiyyah-aurellia-w
 | Solusi machine learning | Dengan memprediksi Diabetes, sistem perawatan kesehatan dapat mengalokasikan sumber daya dengan lebih efisien, memprioritaskan mereka yang membutuhkan perawatan yang lebih intensif. |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
-| Metrik evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
+| Metrik evaluasi | Metric yang digunakan pada model yaitu AUC, Precision, Recall, BinaryAccuracy, ExampleCount untuk mengevaluasi performa model sebuah klasifikasi dengan threshold lower bound = 0.5 ddan change threshold absolute = 0.0001|
 | Performa model | Deksripsi performa model yang dibuat |
 | Opsi deployment | Deksripsi tentang opsi deployment |
 | Web app |  [diabetes-model](https://diabetes-prediction-production.up.railway.app/v1/models/diabetes-model/metadata)|
