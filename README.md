@@ -6,8 +6,8 @@ Username dicoding: shefiyyah-aurellia-w
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) |
-| Masalah | Deskripsi masalah yang di angkat |
+| Dataset | [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)<br> Dataset prediksi Diabetes adalah kumpulan data medis dan demografis dari pasien, bersama dengan status diabetes mereka (positif atau negatif). Data ini mencakup fitur-fitur seperti usia, jenis kelamin, indeks massa tubuh (BMI), hipertensi, penyakit jantung, riwayat merokok, kadar HbA1c, dan kadar glukosa darah. |
+| Masalah | Penyakit diabetes adalah kondisi di mana kadar gula darah seseorang menjadi terlalu tinggi. Diabetes dapat mengakibatkan komplikasi serius seperti kerusakan organ, masalah jantung, stroke, dan masalah mata. Beberapa gejala diabetes meliputi sering buang air kecil, haus berlebihan, penurunan berat badan tanpa sebab, kelelahan, dan luka yang sulit sembuh. Diabetes dapat dikendalikan melalui pola makan sehat, olahraga teratur, dan penggunaan obat-obatan yang diresepkan oleh dokter. |
 | Solusi machine learning | Dengan memprediksi Diabetes, sistem perawatan kesehatan dapat mengalokasikan sumber daya dengan lebih efisien, memprioritaskan mereka yang membutuhkan perawatan yang lebih intensif. |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
