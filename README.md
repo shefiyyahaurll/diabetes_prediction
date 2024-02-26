@@ -11,7 +11,7 @@ Username dicoding: shefiyyah-aurellia-w
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
 | Metrik evaluasi | Metric yang digunakan pada model yaitu AUC, Precision, Recall, BinaryAccuracy, ExampleCount untuk mengevaluasi performa model sebuah klasifikasi dengan threshold lower bound = 0.5 ddan change threshold absolute = 0.0001|
-| Performa model | Deksripsi performa model yang dibuat |
+| Performa model |Model yang dibuat menghasilkan performa yang cukup baik dalam memberikan sebuah prediksi dan dari pelatihan yang dilakukan menghasilkan binary_accuracy sebesar 97.15%, val_binary_acuracy sebesar 97.18%, dan loss sebesar 0.08. Hasil seperti ini sudah cukup baik untuk sebuah memprediksi |
 | Opsi deployment | Proyek machine learning ini dideploy menggunakan salah satu platfrom as a service yaitu railway  yang menyediakan layanan gratis untuk mendeploy sebuah proyek.|
 | Web app |  [diabetes-model](https://diabetes-prediction-production.up.railway.app/v1/models/diabetes-model/metadata)|
 | Monitoring | Deksripsi terkait hasil monitoring dari model serving |
