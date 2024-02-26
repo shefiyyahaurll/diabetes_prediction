@@ -14,5 +14,5 @@ Username dicoding: shefiyyah-aurellia-w
 | Performa model |Model yang dibuat menghasilkan performa yang cukup baik dalam memberikan sebuah prediksi dan dari pelatihan yang dilakukan menghasilkan binary_accuracy sebesar 97.15%, val_binary_acuracy sebesar 97.18%, dan loss sebesar 0.08. Hasil seperti ini sudah cukup baik untuk sebuah memprediksi |
 | Opsi deployment | Proyek machine learning ini dideploy menggunakan salah satu platfrom as a service yaitu railway  yang menyediakan layanan gratis untuk mendeploy sebuah proyek.|
 | Web app |  [diabetes-model](https://diabetes-prediction-production.up.railway.app/v1/models/diabetes-model/metadata)|
-| Monitoring | Monitoring pada sistem ini dilakukan menggunakan prometheus dan grafana. Disini hanya dilakukan proses monitoring untuk menampilkan request yang masuk pada sistem yang akan menamplkan status pada tiap request yang dilakukan, pada sistem ini menampilkan yaitu apabila proses request berhasil ditandakan dengan ok |
+| Monitoring | Monitoring pada sistem ini dilakukan menggunakan prometheus dan grafana. Pada sistem ini hanya  menampilkan yaitu apabila proses request berhasil ditandakan dengan ok |
 
