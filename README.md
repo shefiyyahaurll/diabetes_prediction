@@ -1,4 +1,4 @@
-# Submission 1: Diabetes Prediction
+# Submission 1: Prediksi Penyakit Diabetes
 Nama: Shefiyyah Aurellia Wahyudi
 
 Username dicoding: shefiyyah-aurellia-w
